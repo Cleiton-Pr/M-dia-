@@ -7,4 +7,6 @@ Manipulando o DOM, lidando com eventos e implementação de funcionalidades que 
 Utilizando JavaScript para implementar uma lógica que alterando o texto e o ícone inserido no botão que inicia e pausa o temporizador para 
 cada cronômetro do projeto Fokus. 
 
+Pagina:  https://midia-iota.vercel.app/
+
 ![Captura de tela 2024-05-26 221752](https://github.com/Cleiton-Pr/Midia/assets/109486247/a29a4e3d-5460-4117-8c60-356ece2c09c1)
